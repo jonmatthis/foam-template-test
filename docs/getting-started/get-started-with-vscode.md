@@ -17,7 +17,7 @@ For more information, see the [VS Code keyboard cheat sheets](https://code.visua
 ## Commands
 
 Commands make VS Code extremely powerful.
-
+ 
 To invoke a command, press `cmd+shift+P` and select the command you want to execute.
 For example, to see the Foam graph:
 
