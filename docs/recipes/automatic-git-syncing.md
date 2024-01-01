@@ -5,7 +5,7 @@ You can also easily manipulate the git history to reduce clutter.
 
 ## Required Extensions
 
-- [GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)
+- [GitDoc](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gitdoc)  
 
 ## Instructions
 
